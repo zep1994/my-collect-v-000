@@ -1,6 +1,7 @@
 def  my_collect(students)
   i = 0
   
-  while 
+  while i < students.length
+  
 end
 
