@@ -1,7 +1,7 @@
 def  my_collect(students)
-  i = 0
+  counter = 0
   name = []
-  while i < students.length
-  students
+  while counter < students.length
+  stu
 end
 
