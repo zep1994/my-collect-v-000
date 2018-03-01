@@ -3,7 +3,7 @@ def  my_collect(students)
   student = []
   while counter < students.length
   student << yield(students[counter])
-  counter + 1
+  counter += 1
 end
 end
 
